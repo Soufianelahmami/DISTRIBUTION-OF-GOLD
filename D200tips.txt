@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"DISTRIBUTION OF GOLD mod 1","desc":"Gold, a precious metal that has captivated human civilization for millennia, undergoes a remarkable journey from its origin deep within the Earth's crust to its final destination in the hands of jewelers","photo":"https://iili.io/HbCPZve.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 2","desc":" investors, and central banks around the world. The distribution of gold involves intricate processes, intricate networks, and a rich history that spans continents and centuries.","photo":"https://iili.io/HbCPpZx.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 3","desc":"Geological Formation: Gold deposits are primarily found in underground veins, alluvial deposits,","photo":"https://iili.io/HbCPbTb.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 4","desc":"and even in seawater. Understanding the geology behind gold formation is crucial in identifying viable mining sites.","photo":"https://iili.io/HbCPtyu.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 5","desc":"Mining Techniques: Explore the various methods used to extract gold, from traditional techniques like panning and sluicing to modern methods like open-pit mining and cyanide leaching.","photo":"https://iili.io/HbCPmjj.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 6","desc":"Environmental Concerns: Discuss the environmental impacts of gold mining, including deforestation, water pollution, and habitat disruption, as well as efforts to mitigate these issues.","photo":"https://iili.io/HbCi9CQ.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 7","desc":"Ore Processing: Detail the steps involved in converting raw gold-bearing ore into pure gold, including crushing, grinding, and chemical processes like smelting and roasting.","photo":"https://iili.io/HbCiHGV.webp"},
+  {"title":"DISTRIBUTION OF GOLD mod 8","desc":"Assaying and Quality Control: Explain how assayers assess the quality and purity of gold, ensuring that it meets the necessary standards for distribution.","photo":"https://iili.io/HbCiJ6B.webp"}
    ]
  
 }
